@@ -1,0 +1,55 @@
+@media(max-width:575px){
+
+    .menu a{
+
+        width: 70%;
+        
+        padding: 20px 0;
+    
+    }    
+    
+    .menu{
+        
+        position: static;
+        
+    }
+    
+    .header{
+        
+        padding: 100px 15px;
+        
+        background-image: url(2687a7a0ea3963dce9655bc2d54f863a.jpg);
+            
+        background-size: cover;
+        
+    }
+    
+    .contacts{
+        
+        width: 100%;
+        
+        display:block;
+        
+        padding: 0 0 7px 5px;
+        
+    }
+    
+    .tarif{
+        
+        width: 80%;
+        
+    }
+    
+    .company img{
+        
+        width: 0;
+        
+    }
+    
+    .company{
+        
+        padding: 20px;
+    
+    }
+
+}
